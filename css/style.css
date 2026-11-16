@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#headerPart{
+    background: rgb(55, 121, 148);
+}
+.flexCard{
+    display: flex;
+}
+#cardPart{
+    padding-top: 130px;
+}
+#aboutPart{
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
